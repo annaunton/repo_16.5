@@ -1,0 +1,13 @@
+.TodoList{
+    list-style: none;
+}
+.TodoList li{
+    width:100px;
+    padding:10px 20px;
+    text-align: center;
+    border:1px solid black;
+    margin-top:10px;
+}
+.TodoList li:hover{
+   cursor:pointer;
+}
